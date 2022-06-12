@@ -17,8 +17,6 @@ class MyHomePage extends StatelessWidget {
           image: AssetImage('images/mad-view.jpeg'),
             fit: BoxFit.fitHeight,
 
-
-
          ),
        ),
      ),
